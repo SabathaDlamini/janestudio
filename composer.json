@@ -1,0 +1,17 @@
+{
+    "name": "admin/janestudio",
+    "description": "f3codetest",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Janestudio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sabatha Dlamini"
+        }
+    ],
+    "require": {
+    	"bcosca/fatfree-core": "3.8.0"
+    }
+}
